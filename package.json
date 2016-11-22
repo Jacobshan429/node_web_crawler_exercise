@@ -1,0 +1,12 @@
+{
+  "name": "node_exercise",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Jacob",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*",
+    "express": "*"
+  }
+}
